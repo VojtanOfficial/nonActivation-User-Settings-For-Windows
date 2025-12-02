@@ -1,1 +1,1 @@
-Version 1: Relese of the app
+1.0.0: Relese of the app
