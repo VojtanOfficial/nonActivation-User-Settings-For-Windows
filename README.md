@@ -7,4 +7,6 @@ For 64 and 32 bit Windows builds
 
 # ChangeLog
 
-V1.0.0: Relese of the app
+<h1>1.0.0</h1>
+
+Relese of the app
