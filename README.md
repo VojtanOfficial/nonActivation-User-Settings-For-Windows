@@ -1,5 +1,5 @@
 # nonActivation User Settings
-<img scr="Pictures/main_window.png">
+<img scr="/Pictures/main_window.png">
 
 Removes activate windows watermark and changes white and dark theme.
 
