@@ -10,4 +10,4 @@ For 64 and 32 bit Windows builds
 
 ## 1.0.0
 
-Relese of the app
+Release of the app
